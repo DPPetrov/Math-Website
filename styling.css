@@ -23,15 +23,21 @@ h1 a{
 
 #searchbox{
     float: right;
-    background:rgb(163, 233, 148)  ;
+    background:linear-gradient(#b3f55d, #47af30) ;
     width: 400px;
     height: 50px;
 }
 
 .text{
     float: left;
+    width: 150px;
+    padding: 0, 10px;
+    color: orange;
 }
 
 .submit{
-    float: right;
+    float: left;
+    background: rgb(189, 27, 149);
+    color: white;
+    padding-left: 0, 10px;
 }
