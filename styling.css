@@ -32,6 +32,7 @@ h1 a{
     float: left;
     width: 150px;
     color: orange;
+    padding: 3px;
 }
 
 .submit{
